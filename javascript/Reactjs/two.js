@@ -1,4 +1,4 @@
-function addGM(){
+function add(){
 console.log("Addition")
 }
-addGM()
+add()
