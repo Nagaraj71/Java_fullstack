@@ -3,4 +3,5 @@ emp.ID=103;
 emp.Name="Nagaraj Gouda";
 emp.Email="goudanagaraj789@gmail.com";
 emp.Salary=45000;
+
 console.log(emp);
