@@ -1,1 +1,4 @@
-//git remote add origin https://github.com/Nagaraj71/Java_fullstack.git
+let emp={Id:102, Names:"Nagaraj Gouda",Salary:45000}
+for(key in emp){
+    console.log(key)
+}
