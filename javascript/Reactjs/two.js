@@ -1,12 +1,9 @@
 let size=[]
 console.log(size.length)
 
-size.push(32)
-size.push(33)
-size.push(52)
-size.unshift(12)
-size.shift()
-
+size.push(36)
+size.push(37)
+size.push(39)
 
 
 console.log(size);
