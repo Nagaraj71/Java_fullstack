@@ -1,9 +1,8 @@
-let size=[]
-console.log(size.length)
+let size=[35,36,37]
 
-size.push(36)
-size.push(37)
-size.push(39)
+size.pop(36)
+size.pop(37)
+
 
 
 console.log(size);
