@@ -1,8 +1,6 @@
-let size=[35,36,37]
+let emp={Id:101, Name:"Rahul Gandhi",Email:"goudanagaraj789@gmail.com"}
 
-size.pop(36)
-size.pop(37)
+emp.Name="Priyanka Gandhi"
+emp.Id=103;
 
-
-
-console.log(size);
+console.log(emp);
