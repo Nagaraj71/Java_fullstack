@@ -1,4 +1,4 @@
-let emp={Id:102, Names:"Nagaraj Gouda",Salary:45000}
-for(key in emp){
-    console.log(key)
-}
+let marks=[32,10,41,42]
+marks.map(()=>{
+    console.log("Hello Gm");
+})
