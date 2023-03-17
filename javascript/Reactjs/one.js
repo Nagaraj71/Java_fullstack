@@ -1,6 +1,4 @@
-var salary= 45000;
-if(salary>40000){
-    console.log("construct the home")
-}
-else{
-    console.log("Stay in rented house")}
+let Size=[21,23]
+Size.unshift(45)
+
+console.log(Size)
