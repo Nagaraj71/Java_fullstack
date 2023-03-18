@@ -1,4 +1,5 @@
-let a=[12,45,16]
-let b=[...a,45,46]
+let emp={ID:123,Name:"Rahul",Sal:45000}
 
-console.log(b)
+let employee={...emp,Name:"Vishwas"}
+
+console.log(employee)
