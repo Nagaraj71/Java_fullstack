@@ -1,5 +1,3 @@
-const {emp,details}=require('./five')
-
+const emp=require('./five')
 
 console.log(emp)
-console.log(details)
