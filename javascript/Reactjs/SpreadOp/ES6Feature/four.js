@@ -1,3 +1,5 @@
-const emp=require('./five')
+class users{
 
-console.log(emp)
+}console.log(new users)
+console.log(new users)
+console.log(new users)

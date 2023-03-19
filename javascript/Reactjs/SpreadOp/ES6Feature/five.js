@@ -1,3 +1,6 @@
-let emp=45;
+class user{
+new_users= 500;
 
-module.exports=emp
+}
+console.log(new_users())
+console.log(new_users())
