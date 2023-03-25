@@ -1,6 +1,3 @@
-class user{
-new_users= 500;
+const tax=require('./four')
 
-}
-console.log(new_users())
-console.log(new_users())
+console.log(tax)
