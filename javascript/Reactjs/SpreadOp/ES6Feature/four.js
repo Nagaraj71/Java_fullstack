@@ -1,4 +1,1 @@
-let add=(a,b)=>{
-console.log(a+b)
-}
-add(12,13);
+let add (a,b)
