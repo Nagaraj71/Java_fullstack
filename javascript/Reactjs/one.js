@@ -1,2 +1,6 @@
-let emp=45;
-module.exports=emp
+function Gm(){
+    console.log("Hello GM")
+}
+Gm()
+Gm()
+Gm()
