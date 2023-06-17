@@ -1,3 +1,5 @@
-const emp=require('./one')
+const Emp={name:"nagaraj",ID:"123", email:"nagaraj@dilabs.in"}
 
-console.log(emp)
+const {name,ID,email}=Emp
+
+console.log(Emp)
