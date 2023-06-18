@@ -1,5 +1,9 @@
-const Emp={name:"nagaraj",ID:"123", email:"nagaraj@dilabs.in"}
+const http=require("http")
+const server= http.createServer((req,res)=>{
+    Response.end("HTTP sever")
+})
+server.listen(7000, (err)=>{
 
-const {name,ID,email}=Emp
-
-console.log(Emp)
+    if(err) throw err
+    console.log("Server is running")
+})
