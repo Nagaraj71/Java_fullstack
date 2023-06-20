@@ -1,9 +1,9 @@
-const http=require("http")
-const server= http.createServer((req,res)=>{
-    Response.end("HTTP sever")
-})
-server.listen(7000, (err)=>{
+const http= require("http")
+.createServer((req,res)=>{
 
-    if(err) throw err
-    console.log("Server is running")
+    Response.end("Http GN")
+})
+.listen(2000,(err)=>{
+if (err) throw err
+console.log("Server Running on the website")
 })
