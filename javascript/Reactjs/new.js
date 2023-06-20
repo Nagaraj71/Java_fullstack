@@ -6,4 +6,4 @@ const http= require("http")
 .listen(2000,(err)=>{
 if (err) throw err
 console.log("Server Running on the website")
-})
+});
