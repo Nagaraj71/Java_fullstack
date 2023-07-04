@@ -1,5 +1,3 @@
 function add(){
-    setInterval(() => {
-console.log("hai")
-    }, 2000);
+    setInterval(()=>{console.log("HAI")},2000)
 }add();
