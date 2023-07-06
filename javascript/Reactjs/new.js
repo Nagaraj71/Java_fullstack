@@ -1,3 +1,3 @@
 function add(){
-    setInterval(()=>{console.log("HAI")},2000)
-}add();
+    setTimeout(()=>{console.log("Hai")},2000)
+}add()
